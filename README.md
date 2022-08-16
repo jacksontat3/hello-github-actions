@@ -86,7 +86,7 @@ To get you started, we used actions to go ahead and made a branch and pull reque
 
 <!--
   <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
+  Start this step byasadfasdfa acknowledging the previous step.
   Define terms and link to docs.github.com.
   Historic note: The previous course had troubleshooting steps for people not using the GitHub UI.
 -->
